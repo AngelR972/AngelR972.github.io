@@ -8,7 +8,7 @@
             }
             #game-canvas {
                 margin: -8px;
-            } 
+            }
         </style>
     </head>
     <body>
